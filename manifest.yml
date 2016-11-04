@@ -1,0 +1,7 @@
+applications:
+- name: gwTest
+  memory: 512M
+  host: gwTest0
+  domain: mybluemix.net
+  services: {
+    }
